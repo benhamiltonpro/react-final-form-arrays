@@ -59,7 +59,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "fast-check": "^2.5.0",
     "final-form": "^4.20.1",
-    "final-form-arrays": "^3.0.2",
+    "final-form-arrays": "git+https://github.com/benhamiltonpro/final-form-arrays.git#useLocally",
     "flow-bin": "^0.136.0",
     "glow": "^1.2.2",
     "husky": "^4.3.0",
